@@ -64,6 +64,8 @@ to get the best linear model for a dataset, we need to find what is the f(x) tha
 
 this process is called fitting or training.
 
+Linear regressions are sensitive to outliers
+
 ## using SkLearn
 ![SkLearn](/images/sklearn.png)
 
@@ -73,16 +75,23 @@ the fit function will try to minimize the loss function. This is calculated usin
 Projects that I looked over to see these topics in practice
 
 * [KNN Classifier Tutorial](https://www.kaggle.com/code/prashant111/knn-classifier-tutorial)
+  * > A good KNN first implementation. It has explanations and uses a short dataset that facilitates understanding
 
 * [Car Price Prediction (Linear Regression - RFE)](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe)
   * > This notebook presents well done Data Analisys of the dataset variables before introducing the models.
   * > It has inferences for all analisis. Its more direct to the point, without much data analitics theorical explanation
 
-[A Detailed Regression Guide with House-pricing](https://www.kaggle.com/code/masumrumi/a-detailed-regression-guide-with-house-pricing)
-[Linear Regression Tutorial](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial)
-[Practical Introduction to 10 Regression Algorithm](https://www.kaggle.com/code/faressayah/practical-introduction-to-10-regression-algorithm)
+* [A Detailed Regression Guide with House-pricing](https://www.kaggle.com/code/masumrumi/a-detailed-regression-guide-with-house-pricing)
+  * > Very weel explained and detailed Linear Regression model to predict house pricing
+
+* [Linear Regression Tutorial](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial)
+  * > The best math explained Linear Regression implementation of all these codes. 
+
+* [Practical Introduction to 10 Regression Algorithm](https://www.kaggle.com/code/faressayah/practical-introduction-to-10-regression-algorithm)
+  * > 
 
 
 ## My KNN Project
+Predict team ranking based on last seasons data of each teams victory
 
 ## My Linear Regression Project

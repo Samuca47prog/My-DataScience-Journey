@@ -1,5 +1,10 @@
 # Linear Regression
 
+In An Introduction to Statistical Learning External link, 2nd edition, read the following sections:
+
+Introduction - Pages 1 to 14
+Simple Linear Regression - Pages 61 to 64
+
 # 1.1 KNN
 
 ## Response vs. Predictor Variables
@@ -88,7 +93,7 @@ Projects that I looked over to see these topics in practice
   * > The best math explained Linear Regression implementation of all these codes. 
 
 * [Practical Introduction to 10 Regression Algorithm](https://www.kaggle.com/code/faressayah/practical-introduction-to-10-regression-algorithm)
-  * > 
+  * > 10 regression models explained and applied to the same dataset
 
 
 ## My KNN Project
